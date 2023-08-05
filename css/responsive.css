@@ -1,13 +1,6 @@
 /* Responsive CSS Document */
 
-/* 
-    Created on   : 23/05/2018.
-    Theme Name   : Charles-Business-Consulting HTML Template.
-    Version      : 1.0.
-    Author       : @CreativeGigs.
-    Developed by : Jubayer al hasan. (jubayer.hasan1991@gmail.com)
-   
-*/
+
 
 @media (min-width: 992px) {
   .container {
@@ -26,7 +19,7 @@
   .top-feature .main-content {padding-left: 10%;padding-right: 10%;}
   .header-one .top-header .address-wrapper .address:first-child {margin-right: 20px;}
   .header-one .top-header .address-wrapper .address {padding-right: 20px;}
-  #mega-menu-holder>ul> li> a {padding-right: 25px;padding-left: 15px;}
+  #mega-menu-holder>ul> li> a {padding-right: 25px;padding-left: 10px;}
   .header-one .theme-menu-wrapper .bg-wrapper {padding-left: 15px;}
   .theme-menu-wrapper .right-widget .cart-icon {margin-left: 15px;}
   .testimonial-section .wrapper {width: 65%;}
@@ -48,12 +41,12 @@
   #mega-menu-holder>ul> li.has-submenu> a {padding-right: 52px;}
   .section-spacing,.faq-section,.why-we-best,.error-page {margin-bottom: 80px;}
   .top-feature .main-content {padding: 30px 15px;}
-  .header-one .logo {width: 100%;text-align: center;margin-bottom: 20px;}
+  /* .header-one .logo {width: 100%;text-align: center;margin-bottom: 20px;}
   .header-one .top-header {padding-top: 25px;}
   .header-one .top-header .address-wrapper .address .icon {font-size: 30px;}
   .header-one .top-header .address-wrapper .address {padding: 0 20px 0 45px;margin-right: 0;}
   .header-one .theme-menu-wrapper .bg-wrapper {padding-left:0;}
-  .header-one .menu-wrapper,.header-two .menu-wrapper {position: absolute;width: 100%;left:0;top:0;z-index: 9;}
+  .header-one .menu-wrapper,.header-two .menu-wrapper {position: absolute;width: 100%;left:0;top:0;z-index: 9;} */
   .theme-menu-wrapper .right-widget ul li {line-height: 60px;}
   .theme-menu-wrapper .right-widget {position: relative;z-index: 99;}
   #mega-menu-holder>ul> li> a:before {display: none;}
@@ -72,12 +65,12 @@
   .theme-footer-one .top-footer {padding: 60px 0 0 0;}
   .header-one .theme-menu-wrapper {margin-bottom: -31px;}
   .theme-menu-wrapper .right-widget .cart-icon a span {top:16px;}
-  .header-two .theme-menu-wrapper .bg-wrapper .logo {left:50%;-webkit-transform:translate(-50% , -50%);transform:translate(-50% , -50%);}
+  .header-two .theme-menu-wrapper .bg-wrapper .logo {left:50%;-webkit-transform:translate(-50% , -50%);transform:translate(-50% , -50%); }
   .header-two .theme-menu-wrapper .bg-wrapper {padding-left: 0;}
   .header-two .theme-menu-wrapper .right-widget ul li {line-height: 70px;}
   .header-two .theme-menu-wrapper .right-widget .cart-icon a span {top:20px;}
   .header-two .collapse-button .icon-bar {background: #001a57;}
-  .header-two .menu-collapser {margin: 22px 0;}
+  .header-two .menu-collapser {margin: 22px 0;z-index: 100;}
   .header-two #mega-menu-holder>ul> li> a {padding-top: 0;padding-bottom: 0;}
   .header-two #mega-menu-holder li .sub-toggle {line-height: 40px;}
   .callout-banner,.callout-banner.no-bg .title {text-align: center;}
@@ -87,10 +80,10 @@
   .callout-banner .theme-button-one {float: none;}
   .about-compnay-two .overlay,.core-values {padding: 60px 0;}
   .about-compnay-two .quote-form {margin-top: 40px;}
-  .faq-section,.faq-section .overlay,.why-we-best,.why-we-best .overlay {height: auto;}
+  /* .faq-section,.faq-section .overlay,.why-we-best,.why-we-best .overlay {height: auto;}
   .faq-section .overlay,.why-we-best .overlay {padding: 60px 0;}
   .faq-section .wrapper .img-box,.why-we-best .wrapper .img-box,.contact-us-section .img-box {height: 250px;border-radius: 5px 5px 0 0;}
-  .faq-section .wrapper .faq-content,.why-we-best .wrapper .best-list-item,.contact-us-section .form-wrapper {border-radius: 0 0 5px 5px;}
+  .faq-section .wrapper .faq-content,.why-we-best .wrapper .best-list-item,.contact-us-section .form-wrapper {border-radius: 0 0 5px 5px;} */
   .short-banner .overlay h2 {width: 100%;}
   .theme-footer-two {padding-top: 60px;}
   .theme-footer-two .bottom-footer,.theme-footer-two .top-footer .title {margin-top: 0;}
@@ -214,3 +207,7 @@
 @media (max-width: 380px) {
   .cunter-wrapper [class*="col-"] {max-width: 100%;flex: 0 0 100%;}
 }
+
+
+
+/*-------------------------- Galérie -------------------------*/
