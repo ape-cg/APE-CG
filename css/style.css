@@ -63,6 +63,7 @@
   right: 5px;
   z-index: 99;
   text-align: center;
+  background: #02cc60;
   color: #fff;
   font-size: 18px;
   display: none;
@@ -170,7 +171,7 @@
   color: rgba(0,0,0,0.7);
   /* ici couleur police jaune accueil */
 }
-.p-bg-color,.scroll-top,.header-one .top-header .address-wrapper .quotes a:hover,.theme-menu-wrapper .right-widget .search-option form button,
+.p-bg-color,.header-one .top-header .address-wrapper .quotes a:hover,.theme-menu-wrapper .right-widget .search-option form button,
 #theme-main-banner .camera_caption .theme-button-one:hover,.callout-banner.no-bg .theme-button-one,
 #theme-main-banner .camera_pag .camera_pag_ul li.cameracurrent > span,#theme-main-banner .camera_pag .camera_pag_ul li:hover > span,.service-style-one .contact-text h5:before,
 .testimonial-section .owl-theme .owl-dots .owl-dot.active span,.testimonial-section .owl-theme .owl-dots .owl-dot:hover span,#polyglotLanguageSwitcher ul.dropdown li:hover,
